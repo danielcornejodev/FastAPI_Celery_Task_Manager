@@ -46,8 +46,10 @@ Copy code
 Python 3.8+
 Redis: Install and run Redis on your local machine (localhost:6379) or configure a different broker URL.
 Celery and FastAPI dependencies, which can be installed via requirements.txt.
-Setup and Installation
-Clone the repository:
+
+**Setup and Installation**
+
+**Clone the repository:**
 bash
 Copy code
 git clone <repository_url>
