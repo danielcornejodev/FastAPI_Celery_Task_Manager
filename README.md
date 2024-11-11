@@ -63,12 +63,12 @@ bash
 Copy code
 redis-server
 
-Run the Celery worker:
+**Run the Celery worker:**
 bash
 Copy code
 celery -A tasks worker --loglevel=info
 
-Start the FastAPI application:
+**Start the FastAPI application:**
 bash
 Copy code
 uvicorn main:app --reload
